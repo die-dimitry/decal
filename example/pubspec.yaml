@@ -1,5 +1,5 @@
 name: arcore_flutter_plugin_example
-description: Demonstrates how to use the arcore_flutter_plugin plugin and develop AR Flutter Android Apps
+description: Demonstrates how to use the arcore_flutter_plugin plugin
 publish_to: 'none'
 
 environment:

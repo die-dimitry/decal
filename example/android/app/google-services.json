@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837347915495",
+    "project_id": "ar-furniture-app-11827",
+    "storage_bucket": "ar-furniture-app-11827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837347915495:android:277bf2e615409f083ed442",
+        "android_client_info": {
+          "package_name": "com.decal.arapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837347915495-s97dl5dlv7mn8171kr40fjgasr23ik6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5xPeHx001RyZwQXxg06SVYggBskM2RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837347915495-s97dl5dlv7mn8171kr40fjgasr23ik6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
